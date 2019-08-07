@@ -1,0 +1,10 @@
+.important {
+  font-family: cursive;
+}
+
+p.important {
+  font-size: 20px;
+}
+.unimportant {
+  font-family: monospace;
+}
